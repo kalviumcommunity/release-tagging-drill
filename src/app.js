@@ -1,7 +1,7 @@
 // Dummy Checkout Service
 
 const SERVICE_NAME = 'checkout-service';
-const SERVICE_VERSION = '0.0.0-placeholder';
+const SERVICE_VERSION = '2.0.0';
 
 function run() {
   console.log(`${SERVICE_NAME} starting...`);
